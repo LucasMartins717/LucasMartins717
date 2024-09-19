@@ -1,1 +1,27 @@
 ![](https://github.com/LucasMartins717/LucasMartins717/blob/main/assets/balls.gif)
+
+### Linguagens
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+### Tecnologias
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+
+### Front-End
+
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
+
+### Projetos de Destaque
+
+[![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/Orbits)
+[![](https://img.shields.io/badge/-🔎%20Image%20Search-000)](https://github.com/LucasMartins717/image-search)
+[![](https://img.shields.io/badge/-📋%20Task%20Manager-000)](https://github.com/LucasMartins717/TaskManager-TS)
+[![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/adamalston/https://github.com/LucasMartins717/Denipatch)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
