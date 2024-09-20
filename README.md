@@ -20,7 +20,7 @@
 ### Projetos de Destaque
 
 [![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/Orbits)
-[![](https://img.shields.io/badge/-💼%20Image%20Search-000)](https://github.com/LucasMartins717/EconodataClone)
+[![](https://img.shields.io/badge/-💼%20Econodata-000)](https://github.com/LucasMartins717/EconodataClone)
 [![](https://img.shields.io/badge/-📋%20Task%20Manager-000)](https://github.com/LucasMartins717/TaskManager-TS)
 [![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/adamalston/https://github.com/LucasMartins717/Denipatch)
 
