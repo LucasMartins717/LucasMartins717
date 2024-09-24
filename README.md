@@ -18,9 +18,9 @@
 
 ### Projetos de Destaque
 
-[![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/Orbits)
-[![](https://img.shields.io/badge/-🌤️%20AppClima-000)](https://github.com/LucasMartins717/App-Clima)
-[![](https://img.shields.io/badge/-📋%20Task%20Manager-000)](https://github.com/LucasMartins717/TaskManager-TS)
-[![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/LucasMartins717/Denipatch)
+[![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/orbits)
+[![](https://img.shields.io/badge/-🌤️%20AppClima-000)](https://github.com/LucasMartins717/app-clima)
+[![](https://img.shields.io/badge/-📋%20Task%20Manager-000)](https://github.com/LucasMartins717/taskmanager-ts)
+[![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/LucasMartins717/denipatch)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartins717&theme=github_dark&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
