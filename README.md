@@ -9,6 +9,7 @@
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
 
 ### Front-End
 
@@ -20,7 +21,7 @@
 
 [![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/orbits)
 [![](https://img.shields.io/badge/-🌤️%20AppClima-000)](https://github.com/LucasMartins717/app-clima)
-[![](https://img.shields.io/badge/-📋%20Task%20Manager-000)](https://github.com/LucasMartins717/taskmanager-ts)
+[![](https://img.shields.io/badge/-📦%20Codeplug-000)](https://github.com/LucasMartins717/codeplug)
 [![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/LucasMartins717/denipatch)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartins717&theme=github_dark&layout=compact&hide=HTML,CSS)
