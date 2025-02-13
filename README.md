@@ -24,4 +24,4 @@
 [![](https://img.shields.io/badge/-📦%20Codeplug-000)](https://github.com/LucasMartins717/codeplug)
 [![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/LucasMartins717/denipatch)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartins717&theme=github_dark&layout=compact&hide=HTML,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartins717&theme=github_dark&layout=compact&hide=HTML,CSS,BATCHFILE)
