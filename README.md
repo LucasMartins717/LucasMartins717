@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ### Front-End
 
