@@ -16,6 +16,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 
 ### Projetos de Destaque
