@@ -22,8 +22,8 @@
 
 ### Projetos de Destaque
 
-[![](https://img.shields.io/badge/-🍊%20Orbits-000)](https://github.com/LucasMartins717/orbits)
-[![](https://img.shields.io/badge/-🌤️%20AppClima-000)](https://github.com/LucasMartins717/app-clima)
+[![](https://img.shields.io/badge/-🔴%20Screen–Recorder-000)](https://github.com/LucasMartins717/Screen-Recorder)
+[![](https://img.shields.io/badge/-🧊%20Simple–Light-000)](https://github.com/LucasMartins717/simple-light-clone)
 [![](https://img.shields.io/badge/-📦%20Codeplug-000)](https://github.com/LucasMartins717/codeplug)
 [![](https://img.shields.io/badge/-🛒%20Denipatch-000)](https://github.com/LucasMartins717/denipatch)
 
