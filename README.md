@@ -8,8 +8,10 @@
 ### Tecnologias
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/Angular-000?&logo=Angular&logoColor=DD0031)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
+![Firebase](https://img.shields.io/badge/Firebase-000?&logo=Firebase&logoColor=FF6314)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
