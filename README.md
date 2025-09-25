@@ -12,6 +12,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-000?&logo=Firebase&logoColor=FF6314)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
