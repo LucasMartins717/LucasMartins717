@@ -15,6 +15,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Firestore](https://img.shields.io/badge/-Firestore-000?&logo=Firebase&logoColor=FFCA28)
 
 ### Front-End
 
